@@ -1,3 +1,10 @@
+# GPT Hardware (gpthardware)
+
+The goal of this project is to develop tools that enable the creation of more secure hardware.
+
+
+## We're building safer hardware.
+
 There are various approaches to AI-based hardware trojan detection, including:
 
 - Side-channel analysis: AI algorithms can be trained to analyze side-channel information, such as power consumption, electromagnetic emissions, or timing information, to identify potential hardware trojans.
